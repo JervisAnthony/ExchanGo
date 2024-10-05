@@ -66,9 +66,24 @@ Some planned features for future versions of ExchanGo include:
 
 ## Contributing
 
-We welcome contributions! Feel free to open issues or submit pull requests if you find bugs or want to enhance the app. Please ensure that your code follows best practices and is well documented.
+Contributions are welcome! Feel free to open issues or submit pull requests if you find bugs or want to enhance the app. Please ensure that your code follows best practices and is well documented.Please follow these steps:
+
+1. Fork the project.
+2. Create your feature branch: `git checkout -b feature/YourFeature`.
+3. Commit your changes: `git commit -m 'Add YourFeature'`.
+4. Push to the branch: `git push origin feature/YourFeature`.
+5. Open a pull request.
+
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## 📧 Contact
+
+If you have any questions or suggestions, feel free to contact me:
+
+- **Email**: jervisaldanha.collabs@gmail.com
+- **GitHub**: [JervisAnthony](https://github.com/JervisAnthony) 
 
