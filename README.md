@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ExchanGo.git
+   git clone https://github.com/JervisAnthony/ExchanGo.git
    ```
 
 2. Navigate to the project directory:
